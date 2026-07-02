@@ -40,6 +40,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -79,17 +81,20 @@
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0684-redundant-connection) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -99,6 +104,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
