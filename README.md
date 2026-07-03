@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
