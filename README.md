@@ -40,6 +40,7 @@
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0433-minimum-genetic-mutation) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Binary Search
@@ -63,6 +65,7 @@
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -127,6 +130,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0433-minimum-genetic-mutation) |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 ## Shortest Path
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -173,9 +178,14 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
