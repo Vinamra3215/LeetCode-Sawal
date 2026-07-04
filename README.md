@@ -25,6 +25,7 @@
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -87,6 +89,7 @@
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -108,6 +111,7 @@
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0684-redundant-connection) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
 ## String
