@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
@@ -15,6 +16,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
@@ -31,6 +33,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
@@ -180,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
