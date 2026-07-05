@@ -11,6 +11,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
@@ -25,6 +26,7 @@
 | [0684-redundant-connection](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
@@ -38,6 +40,7 @@
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Array
 |  |
@@ -73,6 +76,7 @@
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Binary Search
@@ -111,6 +115,7 @@
 | [0684-redundant-connection](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -208,6 +213,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
