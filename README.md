@@ -49,6 +49,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2187-minimum-time-to-complete-trips) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -77,6 +78,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2187-minimum-time-to-complete-trips) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
