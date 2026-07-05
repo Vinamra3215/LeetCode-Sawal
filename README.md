@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
+| [0543-diameter-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0672-bulb-switcher-ii) |
@@ -29,6 +31,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
