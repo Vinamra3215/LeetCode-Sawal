@@ -43,6 +43,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -70,6 +71,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
