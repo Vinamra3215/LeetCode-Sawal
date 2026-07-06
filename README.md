@@ -62,6 +62,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -194,6 +195,7 @@
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Interactive
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
@@ -230,6 +233,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
