@@ -56,6 +56,7 @@
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -91,6 +92,7 @@
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -181,6 +183,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Interactive
 |  |
@@ -232,8 +235,10 @@
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
