@@ -71,6 +71,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,10 +225,12 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
 |  |
 | ------- |
