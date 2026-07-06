@@ -63,6 +63,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -227,6 +228,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
 |  |
