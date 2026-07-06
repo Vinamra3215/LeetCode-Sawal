@@ -83,6 +83,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0433-minimum-genetic-mutation) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
+| [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -256,4 +258,12 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3719-longest-balanced-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
