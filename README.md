@@ -16,6 +16,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
@@ -32,6 +33,7 @@
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
@@ -50,6 +52,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Array
 |  |
@@ -218,6 +221,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -297,4 +301,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
