@@ -12,6 +12,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1377-frog-position-after-t-seconds) |
@@ -44,6 +45,7 @@
 | [0655-print-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -291,4 +293,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
