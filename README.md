@@ -195,6 +195,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 | [0672-bulb-switcher-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0672-bulb-switcher-ii) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3101-count-alternating-subarrays](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3101-count-alternating-subarrays) |
@@ -219,6 +220,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -302,4 +304,8 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
