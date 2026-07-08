@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -224,6 +226,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
