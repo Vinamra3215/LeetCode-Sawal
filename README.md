@@ -190,6 +190,7 @@
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 ## Shortest Path
@@ -231,6 +232,7 @@
 | [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
