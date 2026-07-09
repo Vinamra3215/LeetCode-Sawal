@@ -69,6 +69,7 @@
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
@@ -230,6 +231,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -256,6 +258,7 @@
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
