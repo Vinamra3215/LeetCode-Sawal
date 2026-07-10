@@ -186,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
@@ -229,6 +230,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
@@ -255,6 +257,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -325,4 +328,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
