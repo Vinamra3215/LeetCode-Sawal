@@ -59,6 +59,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [0238-product-of-array-except-self](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -234,6 +236,7 @@
 | [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0516-longest-palindromic-subsequence) |
@@ -290,11 +293,13 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
