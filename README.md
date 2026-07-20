@@ -69,6 +69,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1260-shift-2d-grid) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
@@ -172,6 +173,7 @@
 | [0063-unique-paths-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
