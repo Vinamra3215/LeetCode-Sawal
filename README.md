@@ -199,6 +199,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 ## Shortest Path
 |  |
@@ -319,6 +320,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
