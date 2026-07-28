@@ -208,6 +208,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 ## Shortest Path
 |  |
@@ -293,6 +294,7 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -356,4 +358,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
