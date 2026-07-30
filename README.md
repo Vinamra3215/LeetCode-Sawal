@@ -76,6 +76,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -263,6 +264,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -280,6 +282,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
