@@ -109,6 +109,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3719-longest-balanced-subarray-i) |
@@ -209,6 +210,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -287,6 +289,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
@@ -335,6 +339,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
