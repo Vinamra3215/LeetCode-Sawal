@@ -63,6 +63,7 @@
 | [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [0238-product-of-array-except-self](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0399-evaluate-division) |
+| [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0690-employee-importance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 | [0672-bulb-switcher-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0672-bulb-switcher-ii) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3101-count-alternating-subarrays](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3101-count-alternating-subarrays) |
@@ -259,6 +261,7 @@
 | [0085-maximal-rectangle](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
