@@ -74,6 +74,7 @@
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
@@ -228,6 +229,7 @@
 | [0062-unique-paths](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 | [0672-bulb-switcher-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0672-bulb-switcher-ii) |
+| [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3101-count-alternating-subarrays](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3101-count-alternating-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -268,6 +270,7 @@
 | [0956-tallest-billboard](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0956-tallest-billboard) |
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -383,4 +386,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
