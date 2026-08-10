@@ -230,6 +230,7 @@
 | [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 | [0672-bulb-switcher-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0672-bulb-switcher-ii) |
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3101-count-alternating-subarrays](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3101-count-alternating-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -271,6 +272,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -387,12 +389,23 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
