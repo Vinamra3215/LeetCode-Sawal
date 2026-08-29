@@ -213,6 +213,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1092-shortest-common-supersequence) |
+| [1903-largest-odd-number-in-string](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -233,6 +234,7 @@
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1903-largest-odd-number-in-string) |
 | [3101-count-alternating-subarrays](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3101-count-alternating-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -297,6 +299,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1903-largest-odd-number-in-string) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
