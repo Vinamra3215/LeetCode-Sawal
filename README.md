@@ -81,6 +81,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -110,6 +111,7 @@
 | [0924-minimize-malware-spread](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0924-minimize-malware-spread) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -128,6 +130,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -323,6 +327,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0658-find-k-closest-elements) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
