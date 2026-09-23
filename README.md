@@ -100,6 +100,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3634-minimum-removals-to-balance-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -247,6 +248,7 @@
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0672-bulb-switcher-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
