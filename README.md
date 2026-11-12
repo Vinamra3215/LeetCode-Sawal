@@ -73,6 +73,7 @@
 | [0956-tallest-billboard](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0956-tallest-billboard) |
 | [0962-maximum-width-ramp](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0962-maximum-width-ramp) |
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
+| [1146-snapshot-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1146-snapshot-array) |
 | [1260-shift-2d-grid](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1406-stone-game-iii) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
@@ -111,6 +112,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0924-minimize-malware-spread) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1146-snapshot-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1146-snapshot-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -127,6 +129,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1095-find-in-mountain-array) |
+| [1146-snapshot-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1146-snapshot-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -371,6 +374,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1146-snapshot-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1146-snapshot-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,4 +424,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1510-stone-game-iv) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/Vinamra3215/LeetCode-Sawal/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
